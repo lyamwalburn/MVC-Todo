@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
-    "epress": "^0.0.1-security",
+    "express": "^4.17.3",
     "mongodb": "^4.4.0",
     "mongoose": "^6.2.2",
     "nodemon": "^2.0.15"
