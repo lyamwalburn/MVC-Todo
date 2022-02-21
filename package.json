@@ -1,0 +1,20 @@
+{
+  "name": "mvc-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "Lyam Walburn",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "epress": "^0.0.1-security",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
